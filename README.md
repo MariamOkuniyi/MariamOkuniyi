@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Mariam Okuniyi
 
-<!--
-**MariamOkuniyi/MariamOkuniyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Full Stack Web Developer currently focused on frontend development using HTML, CSS, and JavaScript.
 
-Here are some ideas to get you started:
+🎯 Currently Learning:
+- Intermediate JavaScript (Angela Yu's course)
+- CSS (FreeCodeCamp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Projects in Progress:
+- Personal Portfolio Website
+- Responsive Landing Page (coming soon)
+
+📫 Reach Me:
+- Email: mokuniyi@gmail.com
+- GitHub: [MariamOkuniyi](https://github.com/MariamOkuniyi)
+
+🚀 Open to remote internships and junior frontend roles.
+
